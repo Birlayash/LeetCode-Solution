@@ -37,6 +37,7 @@ My LeetCode solutions and DSA practice in Java
 | [0033-search-in-rotated-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
@@ -67,6 +68,7 @@ My LeetCode solutions and DSA practice in Java
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -79,6 +81,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -86,4 +89,16 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
