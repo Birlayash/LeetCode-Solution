@@ -32,6 +32,7 @@ My LeetCode solutions and DSA practice in Java
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -72,5 +73,6 @@ My LeetCode solutions and DSA practice in Java
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
