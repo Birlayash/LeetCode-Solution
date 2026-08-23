@@ -65,6 +65,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -75,4 +76,9 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0001-two-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
