@@ -40,6 +40,7 @@ My LeetCode solutions and DSA practice in Java
 | [0128-longest-consecutive-sequence](https://github.com/Birlayash/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
@@ -67,6 +68,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Birlayash/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ My LeetCode solutions and DSA practice in Java
 | [0128-longest-consecutive-sequence](https://github.com/Birlayash/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
