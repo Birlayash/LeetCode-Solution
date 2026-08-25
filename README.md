@@ -36,6 +36,7 @@ My LeetCode solutions and DSA practice in Java
 | [0001-two-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Birlayash/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Birlayash/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@ My LeetCode solutions and DSA practice in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Birlayash/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -108,6 +110,7 @@ My LeetCode solutions and DSA practice in Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Birlayash/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Counting
