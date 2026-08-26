@@ -1,15 +1,19 @@
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
-        HashMap<Integer, String> hash=new HashMap<>();
-        for(int i=0;i<names.length;i++){
-            hash.put(heights[i],names[i]);
+        Integer[] index = new Integer[names.length];
+
+        for (int i = 0; i < names.length; i++) {
+            index[i] = i;
         }
-        List<Integer> list = new ArrayList<>(hash.keySet());
-        list.sort((a, b) -> b - a);
-        String[] ans=new String[names.length];
-        for(int i=0;i<list.size();i++){
-            ans[i] = hash.get(list.get(i));
+
+        Arrays.sort(index, (a, b) -> heights[b] - heights[a]);
+
+        String[] result = new String[names.length];
+
+        for (int i = 0; i < names.length; i++) {
+            result[i] = names[index[i]];
         }
-        return ans;
+
+        return result;
     }
 }
