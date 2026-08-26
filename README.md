@@ -52,6 +52,7 @@ My LeetCode solutions and DSA practice in Java
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Birlayash/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ My LeetCode solutions and DSA practice in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +114,7 @@ My LeetCode solutions and DSA practice in Java
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -153,4 +156,16 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Birlayash/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
