@@ -45,6 +45,7 @@ My LeetCode solutions and DSA practice in Java
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Birlayash/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -62,6 +63,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ My LeetCode solutions and DSA practice in Java
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
