@@ -52,6 +52,7 @@ My LeetCode solutions and DSA practice in Java
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Birlayash/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -93,6 +94,7 @@ My LeetCode solutions and DSA practice in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
@@ -163,6 +165,7 @@ My LeetCode solutions and DSA practice in Java
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -171,5 +174,6 @@ My LeetCode solutions and DSA practice in Java
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
