@@ -41,6 +41,7 @@ My LeetCode solutions and DSA practice in Java
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Birlayash/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ My LeetCode solutions and DSA practice in Java
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -88,6 +90,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -127,6 +130,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Birlayash/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0179-largest-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
