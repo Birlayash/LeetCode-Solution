@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in Java
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Birlayash/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Birlayash/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Birlayash/LeetCode-Solution/tree/master/0069-sqrtx) |
 ## Binary Search
@@ -196,4 +197,8 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Birlayash/LeetCode-Solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
