@@ -207,11 +207,13 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Birlayash/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Birlayash/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
