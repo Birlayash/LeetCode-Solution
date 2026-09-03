@@ -88,6 +88,7 @@ My LeetCode solutions and DSA practice in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Birlayash/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Birlayash/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -127,6 +128,7 @@ My LeetCode solutions and DSA practice in Java
 | [0001-two-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Birlayash/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Birlayash/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Birlayash/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Birlayash/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -203,4 +205,12 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Birlayash/LeetCode-Solution/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Birlayash/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Birlayash/LeetCode-Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
