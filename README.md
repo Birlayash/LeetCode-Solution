@@ -94,6 +94,7 @@ My LeetCode solutions and DSA practice in Java
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -215,6 +216,7 @@ My LeetCode solutions and DSA practice in Java
 | [0142-linked-list-cycle-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
