@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in Java
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Birlayash/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Birlayash/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Birlayash/LeetCode-Solution/tree/master/0069-sqrtx) |
@@ -209,6 +210,7 @@ My LeetCode solutions and DSA practice in Java
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Birlayash/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Birlayash/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0203-remove-linked-list-elements) |
@@ -217,6 +219,7 @@ My LeetCode solutions and DSA practice in Java
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Birlayash/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0092-reverse-linked-list-ii) |
