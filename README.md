@@ -155,6 +155,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Birlayash/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Birlayash/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
@@ -243,5 +244,10 @@ My LeetCode solutions and DSA practice in Java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Birlayash/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Birlayash/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
