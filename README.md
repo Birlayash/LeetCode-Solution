@@ -103,6 +103,7 @@ My LeetCode solutions and DSA practice in Java
 | [0876-middle-of-the-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +242,7 @@ My LeetCode solutions and DSA practice in Java
 | [0876-middle-of-the-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Birlayash/LeetCode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -251,6 +253,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0020-valid-parentheses](https://github.com/Birlayash/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
