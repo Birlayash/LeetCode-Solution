@@ -10,6 +10,7 @@ My LeetCode solutions and DSA practice in Java
 | [0050-powx-n](https://github.com/Birlayash/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Birlayash/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Birlayash/LeetCode-Solution/tree/master/0069-sqrtx) |
+| [3870-count-commas-in-range](https://github.com/Birlayash/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
