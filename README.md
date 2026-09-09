@@ -12,6 +12,7 @@ My LeetCode solutions and DSA practice in Java
 | [0069-sqrtx](https://github.com/Birlayash/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Birlayash/LeetCode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3870-count-commas-in-range](https://github.com/Birlayash/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
