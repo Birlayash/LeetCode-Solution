@@ -168,6 +168,7 @@ My LeetCode solutions and DSA practice in Java
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -266,6 +267,7 @@ My LeetCode solutions and DSA practice in Java
 | [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
