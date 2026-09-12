@@ -190,6 +190,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Birlayash/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Bucket Sort
 |  |
@@ -260,6 +261,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0020-valid-parentheses](https://github.com/Birlayash/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Birlayash/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
@@ -270,4 +272,5 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Birlayash/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
