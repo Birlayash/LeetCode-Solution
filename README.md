@@ -66,6 +66,7 @@ My LeetCode solutions and DSA practice in Java
 | [0414-third-maximum-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Birlayash/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Birlayash/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -266,6 +267,7 @@ My LeetCode solutions and DSA practice in Java
 | [0225-implement-stack-using-queues](https://github.com/Birlayash/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Birlayash/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -281,5 +283,6 @@ My LeetCode solutions and DSA practice in Java
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Birlayash/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
