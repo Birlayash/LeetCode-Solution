@@ -101,6 +101,7 @@ My LeetCode solutions and DSA practice in Java
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -166,6 +167,7 @@ My LeetCode solutions and DSA practice in Java
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -263,6 +265,7 @@ My LeetCode solutions and DSA practice in Java
 | [0225-implement-stack-using-queues](https://github.com/Birlayash/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
@@ -273,4 +276,8 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Birlayash/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
