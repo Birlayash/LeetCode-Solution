@@ -66,6 +66,7 @@ My LeetCode solutions and DSA practice in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Birlayash/LeetCode-Solution/tree/master/0682-baseball-game) |
@@ -157,6 +158,7 @@ My LeetCode solutions and DSA practice in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
@@ -271,6 +273,7 @@ My LeetCode solutions and DSA practice in Java
 | [0225-implement-stack-using-queues](https://github.com/Birlayash/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Birlayash/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -290,4 +293,8 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0682-baseball-game](https://github.com/Birlayash/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
