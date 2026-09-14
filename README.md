@@ -11,6 +11,7 @@ My LeetCode solutions and DSA practice in Java
 | [0066-plus-one](https://github.com/Birlayash/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Birlayash/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Birlayash/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0836-rectangle-overlap](https://github.com/Birlayash/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Birlayash/LeetCode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3870-count-commas-in-range](https://github.com/Birlayash/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
@@ -307,4 +308,8 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Birlayash/LeetCode-Solution/tree/master/0901-online-stock-span) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Birlayash/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
