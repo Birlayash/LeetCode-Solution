@@ -170,6 +170,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Birlayash/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Birlayash/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Birlayash/LeetCode-Solution/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
@@ -270,6 +271,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Birlayash/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Birlayash/LeetCode-Solution/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Birlayash/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Birlayash/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Birlayash/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
