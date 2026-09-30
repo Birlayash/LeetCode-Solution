@@ -32,6 +32,7 @@ My LeetCode solutions and DSA practice in Java
 | [0374-guess-number-higher-or-lower](https://github.com/Birlayash/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Birlayash/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Newton's Method
@@ -71,6 +72,7 @@ My LeetCode solutions and DSA practice in Java
 | [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Birlayash/LeetCode-Solution/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Birlayash/LeetCode-Solution/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -95,6 +97,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +124,7 @@ My LeetCode solutions and DSA practice in Java
 | [0219-contains-duplicate-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
 | ------- |
