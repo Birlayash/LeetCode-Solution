@@ -106,6 +106,7 @@ My LeetCode solutions and DSA practice in Java
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
@@ -118,6 +119,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Birlayash/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@ My LeetCode solutions and DSA practice in Java
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -175,6 +178,7 @@ My LeetCode solutions and DSA practice in Java
 | [0242-valid-anagram](https://github.com/Birlayash/LeetCode-Solution/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
