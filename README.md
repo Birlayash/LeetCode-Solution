@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Birlayash/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Birlayash/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Birlayash/LeetCode-Solution/tree/master/0069-sqrtx) |
@@ -322,4 +323,8 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Birlayash/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
