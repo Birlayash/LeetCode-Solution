@@ -88,11 +88,13 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0053-maximum-subarray](https://github.com/Birlayash/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,6 +186,7 @@ My LeetCode solutions and DSA practice in Java
 | [0383-ransom-note](https://github.com/Birlayash/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
@@ -287,6 +290,7 @@ My LeetCode solutions and DSA practice in Java
 | [0232-implement-queue-using-stacks](https://github.com/Birlayash/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Birlayash/LeetCode-Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Birlayash/LeetCode-Solution/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
@@ -297,6 +301,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Birlayash/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
