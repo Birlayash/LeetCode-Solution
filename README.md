@@ -13,6 +13,7 @@ My LeetCode solutions and DSA practice in Java
 | [0069-sqrtx](https://github.com/Birlayash/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Birlayash/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/Birlayash/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Birlayash/LeetCode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3870-count-commas-in-range](https://github.com/Birlayash/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
@@ -76,6 +77,7 @@ My LeetCode solutions and DSA practice in Java
 | [0713-subarray-product-less-than-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Birlayash/LeetCode-Solution/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Birlayash/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
@@ -142,6 +144,7 @@ My LeetCode solutions and DSA practice in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Birlayash/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
@@ -151,6 +154,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +200,7 @@ My LeetCode solutions and DSA practice in Java
 | [0053-maximum-subarray](https://github.com/Birlayash/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Birlayash/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -223,6 +228,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -328,8 +334,13 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Birlayash/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0029-divide-two-integers) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
