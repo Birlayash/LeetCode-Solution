@@ -83,6 +83,7 @@ My LeetCode solutions and DSA practice in Java
 | [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -178,6 +179,7 @@ My LeetCode solutions and DSA practice in Java
 | [0567-permutation-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0567-permutation-in-string) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [2418-sort-the-people](https://github.com/Birlayash/LeetCode-Solution/tree/master/2418-sort-the-people) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -343,4 +345,12 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
