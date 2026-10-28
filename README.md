@@ -353,4 +353,20 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Birlayash/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Birlayash/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+## Depth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Birlayash/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Birlayash/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+## Binary Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/Birlayash/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->
