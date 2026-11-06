@@ -12,6 +12,7 @@ My LeetCode solutions and DSA practice in Java
 | [0066-plus-one](https://github.com/Birlayash/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Birlayash/LeetCode-Solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Birlayash/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0633-sum-of-square-numbers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Birlayash/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Birlayash/LeetCode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -33,6 +34,7 @@ My LeetCode solutions and DSA practice in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Birlayash/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Birlayash/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Birlayash/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -116,6 +118,7 @@ My LeetCode solutions and DSA practice in Java
 | [0349-intersection-of-two-arrays](https://github.com/Birlayash/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Birlayash/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Birlayash/LeetCode-Solution/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/Birlayash/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Birlayash/LeetCode-Solution/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Birlayash/LeetCode-Solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Birlayash/LeetCode-Solution/tree/master/0876-middle-of-the-linked-list) |
