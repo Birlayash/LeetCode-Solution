@@ -81,6 +81,7 @@ My LeetCode solutions and DSA practice in Java
 | [0875-koko-eating-bananas](https://github.com/Birlayash/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/Birlayash/LeetCode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Birlayash/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Birlayash/LeetCode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Birlayash/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Birlayash/LeetCode-Solution/tree/master/1122-relative-sort-array) |
@@ -368,8 +369,13 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Birlayash/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+| [0994-rotting-oranges](https://github.com/Birlayash/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Birlayash/LeetCode-Solution/tree/master/0513-find-bottom-left-tree-value) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Birlayash/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
